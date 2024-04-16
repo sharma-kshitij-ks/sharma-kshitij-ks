@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
-![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
+
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
@@ -8,7 +7,8 @@
 
 <p>I have been practising my problem-solving skills in DSA and actively exploring research papers and building relevant projects in my domain.</p>
 
-<img src="https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue" alt="Git War Badge">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
+![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
 <h2>My Skill Set</h2>
 
@@ -54,5 +54,4 @@
 
 <img height="120" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Collaborate With Me - ksharma7_be21@thapar.edu">
 
-</body>
-</html>
+
