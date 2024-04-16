@@ -54,19 +54,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/sharma-kshitij-ks/sharma-kshitij-ks/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
-<div align="center">
 
-<a href="https://github.com/sharma-kshitij-ks" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-
-
-
-
-
-<div align='center'>
   
+
+<br/> </br> 
   <p align='center'>
     <a href="https://linkedin.com/in/kshitij-sharma-ab2104264"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/kshitij.sharma.ks" target="_blank">
