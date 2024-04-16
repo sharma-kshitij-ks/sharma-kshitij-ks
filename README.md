@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 ## My Skill Set  
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sharma-kshitij-ks&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+
 <table><tr><td valign="top" width="33%">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sharma-kshitij-ks&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
