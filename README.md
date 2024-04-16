@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
+![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
