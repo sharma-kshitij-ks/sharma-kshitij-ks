@@ -35,9 +35,9 @@
 <h3>Current Focus</h3>
 <ul>
     
-    <li>🌱 I’m currently learning about advanced algorithms and deep learning architectures from research papers.</li>
-    <li>🔭 I’m currently working on improving my problem solving skills in DSA.</li>
-    <li>👯 I’m looking to collaborate on real world projects related to AI, ML, and Data Science.</li>
+    🌱 I’m currently learning about advanced algorithms and deep learning architectures from research papers.
+    🔭 I’m currently working on improving my problem solving skills in DSA.
+    👯 I’m looking to collaborate on real world projects related to AI, ML, and Data Science.
 </ul>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance.&author=Unknown" alt="Readme Quotes">
