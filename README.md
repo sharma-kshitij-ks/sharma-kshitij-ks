@@ -1,5 +1,5 @@
-### Hi there, I'm Kshitij Sharma! 👋
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
+![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 <!--
 **sharma-kshitij-ks/sharma-kshitij-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ##About Me
