@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+
+
 <div >  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -51,12 +53,20 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="is:open is:issue author:sharma-kshitij-ks archived:false "><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+<div align="center">
 <a href="https://linkedin.com/in/kshitij-sharma-ab2104264" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/sharma-kshitij-ks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+
+
 
 <a href="https://instagram.com/kshitij.sharma.ks" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
