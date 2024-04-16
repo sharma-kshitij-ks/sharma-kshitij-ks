@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?quote="Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance.")](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Connect with me  
 <div align="center">
