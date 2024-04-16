@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
+![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
@@ -10,8 +12,7 @@
 
 <h2>My Skill Set</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
-![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
+
 
 <div>
     <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>
