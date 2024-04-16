@@ -66,4 +66,6 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/kshitij.sharma.ks" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+<img height="120" alt="Collaborate With Me - ksharma7_be21@thapar.edu" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>  
