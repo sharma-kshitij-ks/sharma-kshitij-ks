@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
+
 ## My Skill Set  
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sharma-kshitij-ks&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?quote="Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance.")](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?quote="Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance.")]
 
 ## Connect with me  
 <div align="center">
