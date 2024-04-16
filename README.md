@@ -55,9 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<a href="https://linkedin.com/in/kshitij-sharma-ab2104264" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://github.com/sharma-kshitij-ks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -65,9 +63,19 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://instagram.com/kshitij.sharma.ks" target="_blank">
+
+
+<div align='center'>
+  
+  <p align='center'>
+    <a href="https://linkedin.com/in/kshitij-sharma-ab2104264"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/kshitij.sharma.ks" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>&nbsp;&nbsp;
+    <a href="kshitij.sharma.ksh@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
 
 <img height="120" alt="Collaborate With Me - ksharma7_be21@thapar.edu" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>  
