@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Kshitij Sharma! 👋
 
 <!--
 **sharma-kshitij-ks/sharma-kshitij-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+##About Me
+I'm a 3rd-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala. My interests lie in Artificial Intelligence (AI) and Machine Learning (ML), and I have been actively exploring research papers and projects in these domains.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##About Me
+I'm a 3rd-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala. I've built my foundational understanding in mathematics and statistics, which equips me to approach the problems of ml in a systemic manner, in order to derive meaningful business insights from data. 
+
+I have been practising my problem-solving skills in DSA and I have been actively exploring research papers and building relevant projects in my domain.
+
+I am enthusiastic about gaining practical experience and contributing to real-world projects in the dynamic field of AI and ML. I'm actively seeking mentorship and guidance.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
@@ -45,6 +54,11 @@ Here are some ideas to get you started:
 
 
 <br/>  
+
+Current Focus
+🔭 I’m currently working on improving my skills in AI and ML.
+🌱 I’m currently learning about advanced algorithms and deep learning architectures.
+👯 I’m looking to collaborate on projects related to AI, ML, and Data Science.
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance.&author="Unknown")
 
