@@ -1,6 +1,6 @@
+ 
 
-
-###[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
 <p>I'm a 3rd-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala. I've built my foundational understanding in mathematics and statistics, which equips me to approach the problems of ML in a systemic manner, in order to derive meaningful business insights from data.</p>
