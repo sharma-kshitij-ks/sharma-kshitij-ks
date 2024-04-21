@@ -21,9 +21,10 @@
 </div>
 <div>
     <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="60" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="60" /></a>
     <a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="60" /></a>
     <a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="60" /></a>
-    <a href="https://kafka.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="60" /></a>
+   
 </div>
 <div>
      <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>
