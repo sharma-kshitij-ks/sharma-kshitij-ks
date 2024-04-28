@@ -41,7 +41,7 @@
     👯 I’m looking to collaborate on real world projects related to AI, ML, and Data Science.
 </ul>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance.&author=" alt="Readme Quotes">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Artificial+intelligence+is+the+beauty+of+a+mind+without+boundaries,+shaping+our+world+with+data-driven+elegance." alt="Readme Quotes">
 
 <h2>Connect with me</h2>
 
