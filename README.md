@@ -41,7 +41,7 @@
     👯 I’m looking to collaborate on real world projects related to AI, ML, and Data Science.
 </ul>
 
-
+<p>Artificial intelligence is the beauty of a mind without boundaries, shaping our world with data-driven elegance.</p>
 
 <h2>Connect with me</h2>
 
