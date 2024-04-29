@@ -1,4 +1,5 @@
- 
+ ![Dark Simple Future LinkedIn Banner Template - Made with PosterMyWall](https://github.com/sharma-kshitij-ks/sharma-kshitij-ks/assets/124446613/19589825-fb71-4e61-a757-5b75462b7241)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
