@@ -46,8 +46,7 @@
 
 <h2>Connect with me</h2>
 
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/sharma-kshitij-ks/sharma-kshitij-ks/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book"></a>
+
 
 <p>Feel free to connect with me:</p>
 <a href="https://linkedin.com/in/kshitij-sharma-ab2104264"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn"></a>
