@@ -13,12 +13,10 @@ I'm seeking opportunities in product based startups that are revolutionizing the
 
 
 - I love developing AI products through applied AI and engineering in areas like vision, NLP, and speech. Open to AI (NLP) roles. 
-- 🔭 Currently leading the development of a Visual Dialogue Engine with visual LLMs tailored for Singaporean primary school students.
+- 🔭 Currently developing Dialogue Engine with multimodal LLMs.
 - 💬 Actively looking for full-time roles as an Applied Scientist / Deep Learning Research Engineer starting August 2024. Please reach out if you have an opportunity that fits!
 
-  <p>I'm a 4th-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala. I've built my foundational understanding in mathematics and statistics, which equips me to approach the problems of ML in a systemic manner, in order to derive meaningful business insights from data.</p>
-
-<p>I have been practising my problem-solving skills in DSA and actively exploring research papers and building relevant projects in my domain.</p>
+<p>I am open for Research collaboration</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
