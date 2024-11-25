@@ -16,7 +16,7 @@ I'm seeking opportunities in product based startups that are revolutionizing the
 - 🔭 Currently developing Dialogue Engine with multimodal LLMs.
 - 💬 Actively looking for full-time roles as an Applied Scientist / Deep Learning Research Engineer starting August 2024. Please reach out if you have an opportunity that fits!
 
-<p>I am open for Research collaboration</p>
+<p>🔎 I am open for Research collaborations! </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+tell+stories...;...Welcome+to+mine!)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
