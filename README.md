@@ -4,7 +4,7 @@
 
 
 
-# Hello there 👋! [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kshitij+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
 I'm seeking opportunities in product based startups that are revolutionizing the way we use AI. If you're looking for an AI Research Engineer or Applied Scientist, let’s connect!
